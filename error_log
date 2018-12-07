@@ -1,0 +1,6 @@
+[02-Dec-2018 11:18:23 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[02-Dec-2018 14:09:08 UTC] PHP Fatal error:  Call to a member function is_edit_mode() on null in /home/mangga02/public_html/wp/wp-content/plugins/full-site-builder-for-elementor/inc/class.plugin.php on line 866
+[03-Dec-2018 17:27:55 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[03-Dec-2018 17:27:55 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[06-Dec-2018 06:59:39 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[07-Dec-2018 03:48:01 UTC] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
